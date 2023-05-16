@@ -1,2 +1,2 @@
-# demo
-TCC club git demo
+# TCC git demo
+TCC CS Club GitHub demo
